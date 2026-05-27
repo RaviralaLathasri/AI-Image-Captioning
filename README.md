@@ -4,8 +4,6 @@ A portfolio-ready Streamlit application that generates natural language captions
 
 ## Overview
 
-This project was built during the Microsoft Centre of Excellence in AI Training Program in collaboration with WE Hub at Methodist College of Engineering and Technology (MCET), under the mentorship of Thribhuvan Reddy Mandhadi.
-
 The application demonstrates real-world Vision+NLP capabilities using the Salesforce BLIP Image Captioning Large model.
 
 ## Features
