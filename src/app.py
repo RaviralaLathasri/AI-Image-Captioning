@@ -67,11 +67,11 @@ def render_table() -> None:
 
 
 def main() -> None:
-    st.set_page_config(page_title="ML Model Demo", page_icon="🚀", layout="wide")
-    st.title("ML Model Demo")
-    st.header("Predictive System")
-    st.subheader("Enter Inputs Below")
-    st.write("This app demonstrates ML model deployment.")
+    st.set_page_config(page_title="AI Image Captioning", page_icon="🖼️", layout="wide")
+    st.title("AI Image Captioning")
+    st.header("Vision-Language Caption Generator")
+    st.subheader("Upload an image and generate a caption")
+    st.write("This app demonstrates an image captioning workflow built with a pretrained BLIP model.")
 
     selected_page = render_sidebar()
     user_inputs = render_input_form()

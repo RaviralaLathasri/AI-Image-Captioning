@@ -1,24 +1,26 @@
-# Streamlit ML Demo
+# Streamlit AI Image Captioning
 
-A clean, portfolio-ready Streamlit web application demonstrating a predictive system UI and data visualization workflow.
+A portfolio-ready Streamlit application that generates natural language captions for uploaded images using an advanced vision-language model.
 
 ## Overview
 
-This project is a simple Streamlit app built for demonstration and recruiter presentation. It includes a polished UI, structured inputs, example analytics, and a professional repository layout.
+This project was built during the Microsoft Centre of Excellence in AI Training Program in collaboration with WE Hub at Methodist College of Engineering and Technology (MCET), under the mentorship of Thribhuvan Reddy Mandhadi.
+
+The application demonstrates real-world Vision+NLP capabilities using the Salesforce BLIP Image Captioning Large model.
 
 ## Features
 
-- Interactive user form with inputs for name, age, salary, gender, and education
-- File upload support for images
-- Table and chart visualization using Pandas and Matplotlib
-- Sidebar navigation and responsive layout
-- Structured, production-ready folder architecture
+- Upload an image and generate captions instantly
+- Uses the Salesforce BLIP Image Captioning Large model
+- Simple and interactive Streamlit user interface
+- Clean and professional repo structure for recruiter presentation
+- Beginner-friendly installation and usage
 
 ## Architecture
 
-The application follows a simple yet scalable structure:
+The application follows a clean and scalable structure:
 
-- `src/`: main application code
+- `src/`: main application code and Streamlit interface
 - `assets/`: images and static media assets
 - `docs/`: project documentation and architecture details
 - `tests/`: test suite for basic validation
