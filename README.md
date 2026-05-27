@@ -102,7 +102,4 @@ Add screenshots here to demonstrate the UI and key application screens.
 - Add automated tests for visual components and input validation
 - Add CI/CD workflows and deployment instructions
 
-## Author
 
-- Built for portfolio presentation and recruiter review
-- Contact: `your.email@example.com`
