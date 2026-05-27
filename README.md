@@ -1,4 +1,4 @@
-# Streamlit AI Image Captioning
+# AI Image Captioning
 
 A portfolio-ready Streamlit application that generates natural language captions for uploaded images using an advanced vision-language model.
 
